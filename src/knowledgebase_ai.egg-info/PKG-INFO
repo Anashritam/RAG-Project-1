@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: knowledgebase-ai
+Version: 0.1.0
+Summary: A document question-answering system using Retrieval-Augmented Generation
+Requires-Python: <3.14,>=3.12
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: ruff; extra == "dev"
